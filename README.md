@@ -2,4 +2,4 @@ Estudando
 =========
 
 
-<img src="https://github.com/rudsonlive/Estudando/blob/master/Nexus%204.png"> </img>
+<img src="https://raw.githubusercontent.com/rudsonlive/Estudando/master/Nexus%204.png"> </img>
