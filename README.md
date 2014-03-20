@@ -1,6 +1,4 @@
 Estudando
 =========
 
-<img src="https://raw.githubusercontent.com/rudsonlive/Estudando/master/Nexus%204.png"> </img>
-<img src="https://raw.githubusercontent.com/rudsonlive/Estudando/master/Nexus%204.png"> </img>
-<img src="https://raw.githubusercontent.com/rudsonlive/Estudando/master/Nexus%204.png"> </img>
+<img src="http://www.definemg.com/wp-content/uploads/2013/01/android.jpg"> </img>
